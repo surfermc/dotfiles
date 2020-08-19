@@ -18,3 +18,4 @@ alias df='df -h'
 alias cp='cp -i'
 alias free='free -m'
 
+alias cls='clear'
