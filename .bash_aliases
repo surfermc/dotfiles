@@ -9,7 +9,7 @@ alias la='ls -A'
 alias l='ls -CF' 
 alias l.='ls -a | egrep "^\."'
 
-alias speedtest='curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -'
+alias speedtest='curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python3 -'
 
 # reload bash config
 alias reload="source ~/.bashrc"
